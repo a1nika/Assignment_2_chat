@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "1085784541976",
-    "project_id": "chat-meta-35594",
-    "storage_bucket": "chat-meta-35594.appspot.com"
+    "project_number": "948690205939",
+    "project_id": "chatapp-c217e",
+    "storage_bucket": "chatapp-c217e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1085784541976:android:bc17d754aa5f903566ec6d",
+        "mobilesdk_app_id": "1:948690205939:android:3d9cda8fef85ef217acb86",
         "android_client_info": {
-          "package_name": "com.example.chat_application_iub_cse464"
+          "package_name": "com.anikah.chatapp"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDslDE6KXEuLrH_z2HXB4A1KMNyYp8aBp4"
+          "current_key": "AIzaSyD7W8x0GyHQr71jQx94oWDz9GaG969Vk1U"
         }
       ],
       "services": {

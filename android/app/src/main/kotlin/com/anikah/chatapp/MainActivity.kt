@@ -1,4 +1,4 @@
-package com.example.chat_application_iub_cse464
+package com.anikah.chatapp
 
 import io.flutter.embedding.android.FlutterActivity
 
